@@ -2,7 +2,7 @@
 
 Tämä opas on tarkoitettu opiskelumateriaaliksi radiokouluttajaoppilaalle ja yleispäteväksi ohjeeksi kaikille kouluttajille, kerhokohtaiset käytännöt huomioiden. Radiokomennot ja ohjailuohjeet perustuvat Oppilaan Opas I:een.
 
-Jokaisen radiokouluttajan tulee tutustua siihen, ettei oppilas saa kouluttajilta ristiriitaista tietoa. Hyvä radiokouluttaja huolehtii, että on itse ajan tasalla käytettävistä radiokomennoista ja kerho-/ kenttäkohtaisista erityispiirteistä. Hyvä radiokouluttaja on myös selkeä ja antaa oppilaalle maassa hyppymestarin kanssa niin hyvät ohjeet, että oppilas pystyy ohjaamaan itsenäisesti. Tämä ei tietenkään poista tarkkailu- ja ohjausvastuuta, mutta on selvä, että oppilas oppii parhaiten tekemällä itse. Neljäs hyppyhän on tarkoitus hypätä jo ilman radiota.
+Jokaisen radiokouluttajan tulee tutustua siihen, ettei oppilas saa kouluttajilta ristiriitaista tietoa. Hyvä radiokouluttaja huolehtii, että on itse ajan tasalla käytettävistä radiokomennoista ja kerho-/ kenttäkohtaisista erityispiirteistä. Hyvä radiokouluttaja on myös selkeä ja antaa oppilaalle maassa hyppymestarin kanssa niin hyvät ohjeet, että oppilas pystyy ohjaamaan itsenäisesti. Tämä ei tietenkään poista tarkkailu- ja ohjausvastuuta, mutta on selvä, että oppilas oppii parhaiten tekemällä itse. Neljäs hyppy on tarkoitus hypätä jo ilman radiota.
 
 Koulutus käsittää minimissään:
 
