@@ -1,5 +1,6 @@
 # Summary
 
+<<<<<<< HEAD
 * [Johdanto](README.md)
 * [Radiokouluttajan vaatimukset, vastuu ja tehtävät](radiokouluttajan_vaatimukset,_vastuu_ja_tehtavat/README.md)
    * [Radiokouluttajan vaatimukset](radiokouluttajan_vaatimukset,_vastuu_ja_tehtavat/radiokouluttajan_vaatimukset.md)
@@ -15,4 +16,6 @@
 * [Radiokortti](harjoitus/radiokortti.md)
 * [Pätevyys](kaytannon_suoritukset/patevyys.md)
 * [Käytännön suoritukset](kaytannon_suoritukset/README.md)
+=======
+>>>>>>> 07bde6cd998e1fdb60c0e85326d9bacc1d8db014
 
