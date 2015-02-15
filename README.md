@@ -20,7 +20,7 @@ Tekstimuoto on markdownia. Helppo opas markdown-syntaksiin löytyy [täältä](h
 
 Tekstiä voi muokata suoraan Githubissa etsimällä ensin oikea tiedosto ja sen jälkeen Edit-painikkeen kautta tehdä haluamansa muutokset.
 
-Tämän jälkeen "lähetä" muutokset eteenpäin painamalla "Propose changes".
+Tämän jälkeen "lähetä" muutokset eteenpäin painamalla "Propose changes". Tämä tekee muutoksistasi oman haaran, johon voit tehdä useita muutoksia.
 
-Kun olet valmis muokkauksiesi kanssa, lähetä "moderaattoreille" pyyntö ottaa tekemäsi muutokset mukaan julkaisuversioon tekemällä 'Pull Request'.
+Kun olet valmis muokkauksiesi kanssa, lähetä "moderaattoreille" pyyntö ottaa tekemäsi muutokset (haara) mukaan julkaisuversioon tekemällä 'Pull Request'.
 
