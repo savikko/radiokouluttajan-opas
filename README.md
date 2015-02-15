@@ -1,23 +1,18 @@
 # Radiokouluttajan opas
 
-Tämä opas on tarkoitettu opiskelumateriaaliksi radiokouluttajaoppilaalle ja yleispäteväksi ohjeeksi kaikille kouluttajille, kerhokohtaiset käytännöt huomioiden. Radiokomennot ja ohjailuohjeet perustuvat Oppilaan Opas I:een.
+Tämä opas on tarkoitettu opiskelumateriaaliksi radiokouluttajaoppilaalle ja yleispäteväksi ohjeeksi kaikille kouluttajille, kerhokohtaiset käytännöt huomioiden.
 
-Jokaisen radiokouluttajan tulee tutustua siihen, ettei oppilas saa kouluttajilta ristiriitaista tietoa. Hyvä radiokouluttaja huolehtii, että on itse ajan tasalla käytettävistä radiokomennoista ja kerho-/ kenttäkohtaisista erityispiirteistä. Hyvä radiokouluttaja on myös selkeä ja antaa oppilaalle maassa hyppymestarin kanssa niin hyvät ohjeet, että oppilas pystyy ohjaamaan itsenäisesti. Tämä ei tietenkään poista tarkkailu- ja ohjausvastuuta, mutta on selvä, että oppilas oppii parhaiten tekemällä itse. Neljäs hyppy on tarkoitus hypätä jo ilman radiota.
+Oppaan julkaisuversio löytyy [Gitbook](https://www.gitbook.com/book/laskuvarjotoimikunta/radiokouluttajan_opas)ista, josta voit joko lukea opasta suoraan selaimella (tai mobiilissa) tai ladata oppaan pdf/ebook/mobi -muodoissa.
 
-Koulutus käsittää minimissään:
+## Oppaan muokkaaminen
 
-* 1 oppitunnin, käsittäen perusteet:
-  * tavoitteista ja radion käyttötilanteista
-  * radiokouluttajan vaatimuksista, vastuusta ja tehtävistä
-  * ohjaamistapahtumasta vaaratilanteineen.
+Opas ylläpidetään Githubissa siten, että se on kaikkien muokattavissa/kommentoitavissa. Varsinainen julkaisu menee tietyn moderointiprosessin kautta.
 
-* 1 harjoittelukerran, käsittäen radiokaluston sekä -komennot.
+Tekstimuoto on markdownia. Helppo opas markdown-syntaksiin löytyy [täältä](https://github.com/akx/markdown-cheatsheet-fi/blob/master/Markdown-Ohje.md).
 
-* 2 radio-oppilaspokaa, joilla vähintään:
-  * 2 seurattua radio-ohjausta
-  * 5 virheetöntä radio-ohjausta maahan asti.
+### Muokkaaminen Githubissa
 
-Koulutus on annattava yhtenäisen kurssin muodossa tai se voidaan sitoa kerhossa tapahtuvaan oppilaiden koulutuksen yhteyteen. Koulutuspäällikkö voi lisätä harjoitussuorituksia ja koulutusaikoja kerho- tai oppilaskohtaisesti. Koulutuksen tavoitteena on saada kerhoihin vastuuntuntoisia ja tehtävänsä osaavia radiokouluttajia. Saavutetut pätevyydet on merkittävä koulutuspäällikön ylläpitämään erilliseen kouluttajaluetteloon.
 
-Koulutuspäällikkö varmentaa pätevyydet päiväyksellä ja allekirjoituksellaan. Radiokouluttaja antaa koulutuspäällikölle kirjallisen suostumuksen toimia radiokouluttajan tehtävissä. Suostumus liitetään kerhon koulutuskirjanpitoon.
+
+
 
