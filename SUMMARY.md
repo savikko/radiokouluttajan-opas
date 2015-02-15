@@ -16,4 +16,6 @@
 * [Radiokortti](harjoitus/radiokortti.md)
 * [Pätevyys](kaytannon_suoritukset/patevyys.md)
 * [Käytännön suoritukset](kaytannon_suoritukset/README.md)
+* [Radiokohtaiset ohjeet](radiokohtaiset_ohjeet/README.md)
+   * [Yeasu VXA-300](radiokohtaiset_ohjeet/yeasu_vxa-300.md)
 
