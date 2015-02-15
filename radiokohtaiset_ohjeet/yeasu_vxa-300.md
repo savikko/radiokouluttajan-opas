@@ -12,3 +12,23 @@ Päällä oleva painonappi toimii kolmella tavalla:
 ## Päälle / pois
 
 Pyöritä volume-nappia.
+
+---
+
+Kysely Yeasusta
+
+|                  | On | Ei |
+| ---------------- | ---- | --- |
+| Onko Yeasu hyvä radio? | (x)  | ( ) |
+
+> Yeasu on hyvä radio.
+
+Mitä komentoja voin tällä antaa?
+- [x] Jalat yhteen
+- [x] Vedä
+- [ ] Päästä varjo
+- [x] Oikea-oikea
+
+> Lue lisää komennoista [ohjaamistapahtuma](/ohjaamistapahtuma)-osiosta
+
+---
