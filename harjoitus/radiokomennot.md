@@ -5,7 +5,7 @@ Opetetaan radiokouluttajalle Oppilaan Opas I:n mukaiset radiokomennot sekä kerh
 Harjoitus jakaantuu seuraavasti:
 * radiokomennot
 * ohjeet
-* komentoharjoittelu (rytmi ja oikea-aikaisuus).
+* komentoharjoittelu (rytmi ja oikea-aikaisuus)
 
 Komentoharjoittelu voidaan liittää esimerkiksi alkeiskurssin oppilaiden alastulo- tai valjaskoulutukseen. Sen on tapanduttava kuitenkin kouluttajan vastuulla ja valvonnassa.
 
