@@ -1,6 +1,14 @@
 # Radiokouluttajan opas
 
 Tämä opas on tarkoitettu opiskelumateriaaliksi radiokouluttajaoppilaalle ja yleispäteväksi ohjeeksi kaikille kouluttajille, kerhokohtaiset käytännöt huomioiden.
+```mermaid
+graph TD
+  T[Teoriakoulutus]-->H[Harjoitukset]
+  H-->S[Seuratut ohjaukset]
+  S-->R[Itsenäiset radio\-ohjaukset]
+  R-->K[KP]
+  K-->O[OK]
+```
 
 Oppaan julkaisuversio löytyy [Gitbook](https://www.gitbook.com/book/laskuvarjotoimikunta/radiokouluttajan_opas)ista, josta voit joko lukea opasta suoraan selaimella (tai mobiilissa) tai ladata oppaan pdf/ebook/mobi -muodoissa.
 
