@@ -24,6 +24,8 @@ Tarvitset muokkaamiseen github-tunnuksen. Luo se [täällä](https://github.com/
 
 Tekstimuoto on markdownia. Helppo opas markdown-syntaksiin löytyy [täältä](https://github.com/akx/markdown-cheatsheet-fi/blob/master/Markdown-Ohje.md). Lisää luonnollisesti googlesta etsimällä.
 
+Kaavioiden tekemiseen käytetään Mermaid-kirjastoa. Sen syntaksia voi helposti testata [täällä](http://knsv.github.io/mermaid/live_editor/).
+
 ### Muokkaaminen Githubissa
 
 Tekstiä voi muokata suoraan Githubissa etsimällä ensin oikea tiedosto ja sen jälkeen Edit-painikkeen kautta tehdä haluamansa muutokset.
