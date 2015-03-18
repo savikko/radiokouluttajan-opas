@@ -2,7 +2,7 @@
 
 ## Yhteistyö hyppymestarin ja radiokouluttajan välillä
 
-Hyppymestari vastaa oppilaasta koko hypyn ajan. Yhteistyö hyppymestarin ja radio-kouluttajan välillä on tärkeää. Pudottava hyppymestari tarkastaa tuulipussin ja maalialueen, nimeää oppilaitten hyppyjärjestyksen ja radiokutsut, ohjeistaa oppilaat maastokartalla, antaa ohjeet radiokouluttajalle ja pudottaa oppilaat sovitussa järjestyksessä. Järjestystä ei saa muuttaa lennon aikana radiokouluttajan siitä tietämättä.
+Hyppymestari vastaa oppilaasta koko hypyn ajan. Yhteistyö hyppymestarin ja radiokouluttajan välillä on tärkeää. Pudottava hyppymestari tarkastaa tuulipussin ja maalialueen, nimeää oppilaitten hyppyjärjestyksen ja radiokutsut, ohjeistaa oppilaat maastokartalla, antaa ohjeet radiokouluttajalle ja pudottaa oppilaat sovitussa järjestyksessä. Järjestystä ei saa muuttaa lennon aikana radiokouluttajan siitä tietämättä.
 
 Radiokouluttajan on tärkeää tietää uloshyppypaikka, laskeutumiskuvio ja miten oppilaat on ohjeistettu. Olennaista on myös, kuinka monta oppilasta milläkin ylilennolla lähtee ja kenellä heistä on radio. On tärkeää, että radiokouluttajan ja hyppymestarin oppilaille antamat ohjeet ovat yhtenevät.
 
