@@ -1,4 +1,4 @@
-# Vaaratilanteet
+# Mahdolliset vaaratilanteet
 
 Hyppyjärjestys ei saa muuttua, ellei radiokouluttajalla ole siitä tietoa (laitevika, kieltäytyjä...), eikä koneessa olevan radio-oppilaan kutsua saa muuttaa.
 
