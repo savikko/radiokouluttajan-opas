@@ -1,13 +1,15 @@
 # Mahdolliset vaaratilanteet
 
-Hyppyjärjestys ei saa muuttua, ellei radiokouluttajalla ole siitä tietoa (laitevika, kieltäytyjä...), eikä koneessa olevan radio-oppilaan kutsua saa muuttaa.
+Radiokoulutuksen aikana saattaa syntyä vaaratilanteita, joita on hyvä harjoitella etukäteen.
 
-Varavarjokomennot on harjoiteltava kurssin aikana valjaissa, jos niitä käytetään kerhossa. Komentoihin tulee aina liittää kutsu ja ne on annettava riittävän korkealla ja muut oppilaat huomioiden.
+Varavarjokomennot harjoitellaan radiokouluttajakurssin aikana valjaissa. Komentoihin liitetään aina kutsu ja ne annetaan riittävän korkealla. Näin annetaan ohjattavalle oppilaalle aikaa toimia ja itselle aikaa huomioida muut radio-ohjattavat oppilaat.
 
-Oppilaan joutuessa kenttäalueen ulkopuolelle on radiokouluttajan annettava hänelle riittävän ajoissa käsky varalaskupaikan etsimisestä. Radiokouluttajan on ilmoitettava avun saapumisesta ja hänen on huomioitava muut oppilaat.
+Hyppymestarin kanssa sovitty oppilaiden hyppyjärjestys ei saa muuttua (esimerkiksi laitevika, hypystä kieltäytyminen) radiokouluttajan tietämättä, eikä koneessa olevan radio-oppilaan kutsua saa muuttaa.
 
-Oppilaan loukkaantuessa aloittaa radiokouluttaja ensiavun muut oppilaat huomioiden. Ensiapu ja toiminta onnettomuustilanteissa on ohjeistettu ohjeessa Toiminta onnettomuustilanteessa, Oppilaan Opas Il:ssa sekä kerhojen omissa ohjeissa.
+Oppilaan joutuessa kenttäalueen ulkopuolelle radiokouluttajan on annettava hänelle riittävän ajoissa käsky varalaskupaikan etsimisestä. Radiokouluttajan on ilmoitettava avun saapumisesta ja hänen on huomioitava muut radio-ohjattavat oppilaat.
 
-Radiokouluttaja ei saa vaihtaa tehtäviä toisen kanssa, ellei hyppymestari sitä tiedä.
+Oppilaan loukkaantuessa radiokouluttaja aloittaa ensiavun. Hänen on kuitenkin samalla huomioitava muut radio-ohjattavat oppilaat. Ensiapu ja toiminta onnettomuustilanteissa on ohjeistettu Laskuvarjohyppääjän oppaassa sekä kerhojen omissa ohjeissa.
 
-Radiokouluttajan havaitessa laitteissa vikaa on hänen ilmoitettava siitä viivytyksettä hyppymestarille.
+Mikäli radiokouluttajan tarvitsee vaihtaa tehtäviä toisen kouluttajan kanssa, myös hyppymestarille on kerrottava tilanteesta.
+
+Mahdollisesta laiteviasta on ilmoitettava välittömästi hyppymestarille.
