@@ -7,7 +7,6 @@
    * [Kouluttajien vastuut](radiokouluttajan_vaatimukset,_vastuu_ja_tehtavat/radiokouluttajan_vastuu.md)
    * [Radiokouluttajan tehtävät](radiokouluttajan_vaatimukset,_vastuu_ja_tehtavat/radiokouluttajan_tehtavat.md)
 * [Radion käyttö](radion_kaytto/README.md)
-* [Ohjeita radiokouluttajalle](ohjeita_radiokouluttajalle/README.md)
 * [Ohjaamistapahtuma](ohjaamistapahtuma/README.md)
 * [Vaaratilanteet](vaaratilanteet/README.md)
 * [Harjoitus](harjoitus/README.md)
