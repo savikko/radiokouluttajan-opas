@@ -18,6 +18,8 @@ Opas on rakennettu [Gitbook](https://github.com/GitbookIO/gitbook)in pohjalle.
 
 Opas ylläpidetään Githubissa siten, että se on kaikkien muokattavissa/kommentoitavissa. Varsinainen julkaisu menee tietyn moderointiprosessin kautta.
 
+Teen nyt tähän bränchiin muokkauksen. Kokeillaan toimiiko.
+
 Versionhallintaohjelmistona toimii siis git.
 
 Tarvitset muokkaamiseen github-tunnuksen. Luo se [täällä](https://github.com/join).
