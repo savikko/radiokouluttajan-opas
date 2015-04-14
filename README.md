@@ -34,3 +34,5 @@ Tämän jälkeen "lähetä" muutokset eteenpäin painamalla "Propose changes". T
 
 Kun olet valmis muokkauksiesi kanssa, lähetä "moderaattoreille" pyyntö ottaa tekemäsi muutokset (haara) mukaan julkaisuversioon tekemällä 'Pull Request'.
 
+Lisäsin readmehen tämän rivin omassa forkissani.
+
